@@ -1,1 +1,1 @@
-# Java Object Oriented Programming Class
+# Java Object Oriented Programming - Class
